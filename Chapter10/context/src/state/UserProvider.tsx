@@ -1,4 +1,4 @@
-'use client'; // **
+'use client';
 
 import {
   useCallback,
@@ -54,7 +54,7 @@ export function UserProvider({
         loading,
         handleSignIn,
         handleSignOut,
-        togglePermissions, // **
+        togglePermissions,
       }}
     >
       {children}
