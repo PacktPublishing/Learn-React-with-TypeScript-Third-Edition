@@ -1,3 +1,4 @@
+'use client';
 import { use } from 'react';
 import { UserContext } from '@/state/UserContext';
 

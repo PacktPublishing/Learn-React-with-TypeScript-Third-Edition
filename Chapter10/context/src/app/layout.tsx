@@ -29,7 +29,6 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable}`}
       >
-        {/* Add provider */}
         <UserProvider>{children}</UserProvider>
       </body>
     </html>

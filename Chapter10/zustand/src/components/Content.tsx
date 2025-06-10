@@ -1,3 +1,4 @@
+'use client';
 import { useUserStore } from '@/state/useUserStore';
 
 export function Content() {
